@@ -2,7 +2,7 @@ import time
 import os
 
 #data waktu untuk jenis makanan (dalam detik)
-popcorn = 60        #1 menit
+popcorn = 180        #3 menit
 defrost = 540       #9 menit
 instant = 180       #3 menit
 vegetables = 120    #2 menit
